@@ -1,0 +1,73 @@
+/* CSS Document */
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif; /*'Lato', sans-serif;*/
+  font-weight: 100;
+  color: #2d3c49;
+}
+/*
+h2 {
+  color: #BCBBBB;
+  font-weight: bold;
+}
+*/
+h3 {
+  text-transform: uppercase;
+  color: #2d3c49;
+  font-weight: bold;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+p {
+  color: #7d97ad;
+}
+
+.text-muted {
+  color: #7d97ad !important;
+  font-weight: 100;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.title-super {
+  font-size: 60px;
+}
+
+.title-logo {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.heading {
+  border-bottom: 3px solid #7d97ad;
+  margin-bottom: 30px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.img-responsive {
+  margin: 0 auto;
+  padding-left: 0;
+}
+
+.img-row-3 {
+  height: 50%;
+}
