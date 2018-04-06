@@ -1,23 +1,14 @@
-/* CSS Document */
 
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  box-sizing: border-box;
+  box-sizing: : border-box;
 }
 
 body {
-  font-family: 'Open Sans', sans-serif; /*'Lato', sans-serif;*/
+  font-family: : 'Liberation Sans', sans-serif;
   font-weight: 100;
   color: #2d3c49;
 }
-/*
-h2 {
-  color: #BCBBBB;
-  font-weight: bold;
-}
-*/
+
 h3 {
   text-transform: uppercase;
   color: #2d3c49;
@@ -30,15 +21,22 @@ h4 {
 
 p {
   color: #7d97ad;
+  font-size: 12px;
 }
 
-.text-muted {
+.text-desc {
   color: #7d97ad !important;
   font-weight: 100;
+  margin-bottom: 20px;
 }
 
 .text-thin {
   font-weight: 100;
+}
+
+.text-footer {
+  text-align: center;
+  color: #2d3c49;
 }
 
 .title-super {
@@ -66,8 +64,12 @@ p {
 .img-responsive {
   margin: 0 auto;
   padding-left: 0;
+  display: block;
+  vertical-align: middle;
 }
 
 .img-row-3 {
-  height: 50%;
+  /* height: 50%; */
+  /* display: flex !important;
+  flex-direction: row !important; */
 }
