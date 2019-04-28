@@ -1,7 +1,5 @@
 # p2_portfolio
-Project portfolio for the full stack web developer nanodegree
-
-**_Portfolio_**
+Project portfolio for the full stack web developer nanodegree.
 
 #### About
 Given a pdf mockup of a website from a designer, translate it to a real website using your `HTML` and `CSS` skills.
