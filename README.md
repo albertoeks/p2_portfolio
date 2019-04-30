@@ -1,4 +1,4 @@
-# p2_portfolio
+# Project Portfolio
 Project portfolio for the full stack web developer nanodegree.
 
 #### About
